@@ -1,0 +1,19 @@
+{
+  "name": "fcharts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fusioncharts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohitkr/fcharts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitkr/fcharts/issues"
+  },
+  "homepage": "https://github.com/rohitkr/fcharts"
+}

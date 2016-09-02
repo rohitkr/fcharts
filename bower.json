@@ -1,0 +1,14 @@
+{
+  "name": "fcharts",
+  "description": "",
+  "main": "fusioncharts.js",
+  "license": "ISC",
+  "homepage": "https://github.com/rohitkr/fcharts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
